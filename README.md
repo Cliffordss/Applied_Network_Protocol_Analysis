@@ -21,3 +21,4 @@ python brute_force.py
 
 The Script will attempt every 3 digit PIN and show the progress in the terminal.
 
+I used wiresgark to monitor the network traffic while running the .exe.
